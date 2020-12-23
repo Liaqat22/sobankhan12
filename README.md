@@ -39,7 +39,9 @@
 <!-- <a href="https://github.com/sobankhan252">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=soban252&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=soban252&layout=compact&langs_count=8&theme=react"/> -->
-  [![Soban khan stats](https://github-readme-stats.vercel.app/api?username=sobankhan12)](https://github.com/sobankhan12/github-readme-stats)
+<!--   [![Soban khan stats](https://github-readme-stats.vercel.app/api?username=sobankhan12)](https://github.com/sobankhan12/github-readme-stats) -->
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </a>
 </p>
