@@ -35,7 +35,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 <img src="https://github-readme-stats.vercel.app/api?username=sobankhan12&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=sobankhan12&repo=github-readme-stats)](https://github.com/sobankhan12/github-readme-stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=sobankhan12&repo=sobankhan12)](https://github.com/sobankhan12/sobankhan12"/>
 
 
 
