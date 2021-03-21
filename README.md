@@ -34,10 +34,10 @@
 
 
 ### ⚙️ &nbsp;GitHub Analytics
-
+<img src="https://github-readme-stats.vercel.app/api?username=sobankhan12&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <p align="center">
 <a href="https://github.com/sobankhan12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=soban252&layout=compact&langs_count=8&theme=react"/> -->
 <!--   [![Soban khan stats](https://github-readme-stats.vercel.app/api?username=sobankhan12)](https://github.com/sobankhan12/github-readme-stats) -->
 <!--   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
