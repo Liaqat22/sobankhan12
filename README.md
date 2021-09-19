@@ -6,7 +6,7 @@
 🎓 &nbsp;I'm currently studying Computer Science in Rowan College.\
 ✍️ &nbsp;In my free time, I pursue Coding and Gaming as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at dawoodsadiq171@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at sobankhan252@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1y_a4iM4x2zujHz2_1YZCCFgUpI_BRIGK/view) for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
@@ -44,9 +44,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="http://dawood-developerfolio.netlify.app/"><img src="https://img.shields.io/badge/-DevFolio-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/dawood-sadiq-739178199/"><img src="https://img.shields.io/badge/-Dawood%20Sadiq-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:sobankhan252@gmail.com"><img src="https://img.shields.io/badge/-dawoodsadiq171@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/dawoodsadiq06/"><img src="https://img.shields.io/badge/-@dawoodsadiq06-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/daudsadiq.daud"><img src="https://img.shields.io/badge/-Dawood%20Sadiq-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.fiverr.com/dawood69"><img src="https://img.shields.io/badge/-@dawood69-1dbf73?style=flat-square&logo=Fiverr&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muhammad-soban-601570183/"><img src="https://img.shields.io/badge/-Muhammad%20Soban-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:sobankhan252@gmail.com"><img src="https://img.shields.io/badge/-sobankhan252@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/soban2741/"><img src="https://img.shields.io/badge/-@soban2741-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/soban.khan.9212301/"><img src="https://img.shields.io/badge/-Soban%20Skhan-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.fiverr.com/users/muhammadsoba957/"><img src="https://img.shields.io/badge/-@muhammadsoba957-1dbf73?style=flat-square&logo=Fiverr&logoColor=white"/></a>
