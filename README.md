@@ -1,4 +1,4 @@
-## 👋 &nbsp;Hey there! I'm Soban
+## 👋 &nbsp;Hey there! I'm sbk
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -43,9 +43,9 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
-<a href="https://www.linkedin.com/in/muhammad-soban-601570183/"><img src="https://img.shields.io/badge/-Muhammad%20Soban-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:sobankhan252@gmail.com"><img src="https://img.shields.io/badge/-sobankhan252@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/soban2741/"><img src="https://img.shields.io/badge/-@soban2741-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/soban.khan.9212301/"><img src="https://img.shields.io/badge/-Soban%20Skhan-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.fiverr.com/users/muhammadsoba957/"><img src="https://img.shields.io/badge/-@muhammadsoba957-1dbf73?style=flat-square&logo=Fiverr&logoColor=white"/></a>
+#<p align="center">
+#<a href="https://www.linkedin.com/in/muhammad-soban-601570183/"><img src="https://img.shields.io/badge/-Muhammad%20Soban-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+#<a href="mailto:sobankhan252@gmail.com"><img src="https://img.shields.io/badge/-sobankhan252@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+#<a href="https://www.instagram.com/soban2741/"><img src="https://img.shields.io/badge/-@soban2741-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+#<a href="https://www.facebook.com/soban.khan.9212301/"><img src="https://img.shields.io/badge/-Soban%20Skhan-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+#<a href="https://www.fiverr.com/users/muhammadsoba957/"><img src="https://img.shields.io/badge/-@muhammadsoba957-1dbf73?style=flat-square&logo=Fiverr&logoColor=white"/></a>
